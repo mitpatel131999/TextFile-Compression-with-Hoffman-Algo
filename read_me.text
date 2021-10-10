@@ -1,0 +1,38 @@
+
+
+
+   problem  1      compile :-   g++ -o problem1  problem1.cpp
+   
+                    run     :-   ./problem1
+   
+   
+   Test Case 1 :
+
+     Enter 1 or 2:  1
+     You entered a 1:
+     Enter character-frequency table:
+     a 45
+     b 13
+     c 12
+     d 16
+     e 9
+     f 5
+     Huffman code table is as follows:
+     Char codeword
+     a 0
+     b 101
+     c 100
+     d 111
+     e 1101
+     f 1100
+     
+ 
+ 
+   Test Case 2 :
+
+     Enter 1 or 2: 2
+      FrequencyData.txt is created 
+      HuffmanCodeData.txt is created 
+      EncodedData.txt is created 
+      DecodedData.txt is created 
+     
